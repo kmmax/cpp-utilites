@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# IDI project files
+*.txt.user
